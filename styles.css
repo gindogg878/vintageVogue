@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  border-left: 5px solid lightgray;
+  min-height: 100%;
+  font-family: sans-serif;
+  max-width: 1000px;
+}
