@@ -21,10 +21,57 @@ main {
   padding: 1rem 2rem;
 }
 
+article {
+  margin-bottom: 4em;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 2rem;
+}
+
+article h2 {
+  font-size: xx-large;
+}
+
+.firstChar {
+  font-size: 6rem;
+  font-weight: bold;
+  color: lightgray;
+  float: left;
+  margin: 0 6px;
+}
+
+article a {
+  font-weight: bold;
+  color: tomato;
+  margin-left: 90%;
+}
+.ulHead {
+  display: flex;
+  padding: 0;
+  list-style-type: none;
+  justify-content: space-between;
+}
+.ulHead a {
+  color: lightgray;
+}
+
 img {
   width: 100%;
 }
 
 footer {
   padding: 1rem 2rem;
+}
+
+.ulFoot {
+  display: flex;
+  padding: 0;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+.ulFoot a {
+  color: tomato;
+}
+.copyright {
+  color: lightgray;
 }
