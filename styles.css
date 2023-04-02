@@ -9,3 +9,22 @@ body {
   font-family: sans-serif;
   max-width: 1000px;
 }
+header {
+  padding: 1rem 2rem;
+}
+
+h1 {
+  color: tomato;
+}
+
+main {
+  padding: 1rem 2rem;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  padding: 1rem 2rem;
+}
