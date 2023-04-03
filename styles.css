@@ -8,6 +8,7 @@ body {
   min-height: 100%;
   font-family: sans-serif;
   max-width: 1000px;
+  margin: auto;
 }
 header {
   padding: 1rem 2rem;
