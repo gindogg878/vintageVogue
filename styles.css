@@ -44,6 +44,7 @@ article a {
   font-weight: bold;
   color: tomato;
   margin-left: 90%;
+  text-decoration: none;
 }
 .ulHead {
   display: flex;
